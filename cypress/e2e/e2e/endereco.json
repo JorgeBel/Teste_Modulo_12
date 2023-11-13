@@ -1,0 +1,53 @@
+[
+
+{
+ "nome": "Ana", 
+ "sobrenome": "Lucia",
+ "empresa": "EBAC",
+ "endereco": "Av. Paulista",
+ "numero": "2000",
+ "pais":"Brasil",
+ "cidade": "São Paulo",
+ "estado": "São Paulo",
+ "cep": "01153000",
+ "telefone": "99999999",
+ "email": "ebacebac@teste.com"
+ 
+
+},
+
+
+{
+ "nome": "Flavio", 
+ "sobrenome": "Araujo",
+ "empresa": "EBAC",
+ "endereco": "Av. Paulista",
+ "numero": "2000",
+ "pais":"Brasil",
+ "cidade": "São Paulo",
+ "estado": "São Paulo",
+ "cep": "01153000",
+ "telefone": "99999999",
+ "email": "ebacebac@teste.com"
+ 
+
+},
+
+{
+    "nome": "Caio", 
+    "sobrenome": "Araujo",
+    "empresa": "EBAC",
+    "endereco": "Av. Paulista",
+    "numero": "2000",
+    "pais":"Brasil",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "01153000",
+    "telefone": "99999999",
+    "email": "ebacebac@teste.com"
+    
+   
+}
+
+
+]
